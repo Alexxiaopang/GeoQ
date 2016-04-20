@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="ture_button">ture</string>
+    <string name="false_button">false</string>
+    <string name="corrent">yes</string>
+    <string name="fcorrent">no</string>
+    <string name="next">Nest</string>
+    <string name="question_1">this is 1</string>
+    <string name="question_2">this is 2</string>
+    <string name="question_3">this is 3</string>
+    <string name="question_4">this is 4</string>
+    <string name="question_5">this is 5</string>
+</resources>
